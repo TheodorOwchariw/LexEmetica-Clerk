@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "start": "node index.js",
+    "axios": "^1.9.0",
+    "express": "^5.1.0",
+    "http-proxy-middleware": "^3.0.5"
+  }
+}
